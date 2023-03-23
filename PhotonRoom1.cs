@@ -2,9 +2,10 @@ using SystemCollections;
 using SystemCollections.Generic;
 using UnityEngine;
 using Photon.VR;
+
 namespace PVRServers
 
-public class PhotonRoom1 : MonoBehaviour
+public class PhotonRoomJoin : MonoBehaviour
 {
 Header["Might not work. Made by NoverVR"]
 public string Handtag;
